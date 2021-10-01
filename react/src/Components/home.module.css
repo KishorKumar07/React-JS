@@ -1,0 +1,43 @@
+*{
+    margin :0;
+    padding :0;
+    box-sizing: border-box;
+    flex-wrap: wrap ;
+    }
+    
+    .navbar{
+    
+        display : flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    
+    }
+    
+    .navcomponents{
+       
+        display : flex;
+    }
+    .img1,.img2,.img3{
+    align-items: center;
+    padding-left: 500px;
+    padding-top: 50px;
+
+    }
+    .para1,.para2,.para3{
+        padding-left: 30px;
+     
+    }
+    .p1{
+        padding-left: 70px;
+     
+    }
+    .p3{
+        padding-left: 10px;
+     
+    }
+    .btn{
+        padding-left: 180px;
+        align-items: center;
+
+    }
